@@ -1,0 +1,138 @@
+ /*    LAYOUT SECTION      */
+body {
+	
+	background-color: green;
+	 margin: 20px;
+	 font-family: verdana, george, serif;
+	 font-size: 14px;
+	
+	
+}
+#header  {
+	background-color: blue;
+	margin: 10px;
+	height: 90px;
+
+}
+#navbar ul{
+	background-color: yellow;
+	margin: 10px;
+	list-style-type: none;
+	text-align: center;
+	padding: 5px;
+	border-radius: 5px;
+	
+}
+#navbar ul li{
+	
+	display: inline;
+	
+}
+/*
+#navbar ul li a{
+	font-family: arial;
+	padding: 5px;
+	color: blue;
+	background-color: green;
+	*/
+	
+}
+
+.sideright{
+	background-color: white;
+	margin-top: 0px;
+	border-radius: 5px;
+	padding: 20px;
+	font-size: 13px;
+	float: right;
+	width: 260px;
+    clear: right;
+	
+	
+ }    
+.imagesidebar{
+	margin-left: 10px;
+	margin-right:10px;
+	margin-top: px;
+	margin-bottom:10px;
+	border-radius: 5px;
+	padding: 20px;
+	float: right;
+	width: 300px;
+    clear: both;
+	
+	
+	
+ }           
+.main {
+	background-color: white;
+	margin-left: 10px;
+	margin-right: 320px;
+	margin-top: 10px;
+	margin-bottom:10px;
+	border-radius: 5px;
+	padding: 20px;
+	font-size: 14px;
+	
+} 
+
+.sideright{
+	background-color: white;
+	margin-top: 10px;
+	border-radius: 5px;
+	padding: 20px;
+	font-size: 13px;
+	float: right;
+	width: 260px;
+    clear: right;	
+ } 
+#footer  {
+	background-color: black;
+	margin: 10px;
+	height: 60px;
+	clear: both;
+	border-radius: 15px;
+	text-align:center;
+	color: white;
+	padding:15px;
+	font-size: 13px;
+
+} 
+#footer ul{
+	background-color: black;
+	margin: 10px;
+	list-style-type: none;
+	text-align: center;
+	padding: 5px;
+	border-radius: 5px;
+	
+}
+#footer ul li{
+	
+	display: inline;
+	
+}
+/*    HEADINGS SECTION      */
+h1 {
+	font-size: 20px;
+	color: red; 
+	}
+h3 {
+	font-size: 20px;
+	color: blue;  
+	}	
+h2 {
+	font-size: 50px;
+	color: white;  
+	text-align: center;
+	font-family: "century Gothic",arial;
+	margin:0px;
+	}	
+img{
+	
+	max-height:100%;
+	max-width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	display: block;
+} 
